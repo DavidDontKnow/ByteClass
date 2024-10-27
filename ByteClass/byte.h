@@ -22,7 +22,23 @@ public:
 	int at(int index);
 	std::string toString();
 	int toInt();
+	//constructors 
+	void byte();
+	// byte with int passed 
+	void byte(int value);
+	void byte(int ar[]);\
+	//operations
+	int add(int num);
+	int subtract(int num);
+	int multiply(int num);
+	int divide(int num);
+
+	//testing 
+	void printByte();
+
 };
+
+
 
 
 #endif 
