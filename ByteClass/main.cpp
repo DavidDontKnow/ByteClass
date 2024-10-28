@@ -1,8 +1,8 @@
 /*
 Main.cpp
 David Gutierrez
-Assignment 2 Class Construction
-10/19/2024
+Assignment 3 overloading constructors
+10/27/2024
 */
 
 
@@ -42,11 +42,6 @@ int main() {
 	byte2.byte(ar);
 	byte2.printByte();
 
-
-	
-
-	/*cout << "Int: " << byte.toInt() << endl;
-	cout << "String: " << byte.toString() << endl;*/
 
 	return 0;
 }

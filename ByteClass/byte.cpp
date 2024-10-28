@@ -1,8 +1,8 @@
 /*
 byte.cpp
 David Gutierrez
-Assignment 2 Class Construction
-10/19/2024
+Assignment 3 overloading constructors
+10/27/2024
 */
 
 
