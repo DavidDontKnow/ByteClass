@@ -26,7 +26,7 @@ public:
 	void byte();
 	// byte with int passed 
 	void byte(int value);
-	void byte(int ar[]);\
+	void byte(int ar[]);
 	//operations
 	int add(int num);
 	int subtract(int num);
